@@ -24,7 +24,8 @@ However, if there is not enough of the product in stock, it will tell the user t
 - Inquire NPM Package (https://www.npmjs.com/package/inquirer)
 - MySQL NPM Package (https://www.npmjs.com/package/mysql)
 
-<img width="600" alt="t2rn7bn2cc" src="https://user-images.githubusercontent.com/28972721/37572817-1aa08bfe-2ace-11e8-8613-4502d75453b7.gif">
+<br/>
+<img width="600" alt="p9mgrqcupo" src="https://user-images.githubusercontent.com/28972721/37695525-4be62168-2c8d-11e8-833d-ab1d5ea2ac6f.gif">
 
 
 
