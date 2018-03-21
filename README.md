@@ -25,8 +25,7 @@ However, if there is not enough of the product in stock, it will tell the user t
 - MySQL NPM Package (https://www.npmjs.com/package/mysql)
 
 <br/>
-<img width="600" alt="p9mgrqcupo" src="https://user-images.githubusercontent.com/28972721/37695525-4be62168-2c8d-11e8-833d-ab1d5ea2ac6f.gif">
-
+<img width="600" alt="gwx9wz73hm" src="https://user-images.githubusercontent.com/28972721/37695735-a01317d6-2c8e-11e8-98cf-608d477ae13c.gif">
 
 
 
